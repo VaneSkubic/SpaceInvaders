@@ -1,0 +1,10 @@
+body {
+	background-color: darkgray;
+	background: linear-gradient(90deg, rgba(255,140,58,1) 0%, rgba(0,212,255,1) 100%);
+}
+canvas {
+	margin: auto;
+	display: block;
+	box-shadow: 0px 0px 45px -5px rgba(0,0,0,1);
+	border-radius: 10px;
+}
