@@ -1,4 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js(["FS93b"]); }
-
-__d("MWChatOpenTabForPage.re",["bs_curry","MWChatOpenTabForPage.bs"],(function(a,b,c,d,e,f){a=function(a,c){a=b("bs_curry")._2(b("MWChatOpenTabForPage.bs").useHook,a.preventAutofocus,c);return a};f.useHook=a}),null);
-__d("useMWChatOpenTabForPage",["MWChatOpenTabForPage.re"],(function(a,b,c,d,e,f){"use strict";e.exports=a;function a(a,c){return b("MWChatOpenTabForPage.re").useHook(c!=null?{preventAutofocus:c.preventAutofocus_DO_NOT_USE}:{},a)}}),null);
